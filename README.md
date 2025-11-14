@@ -39,7 +39,7 @@
   <a href="mailto:aditichhajedxiia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://aditichhajed.github">
+  <a href="https://github.com/aditichhajed">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white" />
   </a>
 </p>
